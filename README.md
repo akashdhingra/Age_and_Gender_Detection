@@ -18,8 +18,6 @@ FinalMasksCNN.ipynb - Jupyter Notebook consisting of all the code
 
 FinalModelFDCNN.pkl - Convolutional Neural Network model saved after training.
 
-Report part 1 - Report file consisting details and statistics of the project.
-
 Steps to run the notebook:
 
 Skip the first cell that has the code to load the existing model, if running for the first time. 
